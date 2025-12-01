@@ -5,6 +5,7 @@ stuff that I am into involves Linux & Networking
 ![snake gif](https://raw.githubusercontent.com/bonobix/bonobix/refs/heads/output/github-contribution-grid-snake.svg)
 
 <!-- badges-start -->
+<a href="https://www.credly.com/badges/0b72b505-fe78-4446-9241-78d9efb7b9e8"><img src="https://images.credly.com/images/e05777b4-2eba-4421-9741-90547ac41d58/blob" width="50" alt="LFEL1009: Getting Started with OpenTofu"/></a>
 <a href="https://www.credly.com/badges/a0ab8721-5091-4c3b-b03b-ebfd7c7802b6"><img src="https://images.credly.com/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" width="50" alt="CGOA: Certified GitOps Associate"/></a>
 <a href="https://www.credly.com/badges/ac205c80-c880-4703-a11a-644755ed6a01"><img src="https://images.credly.com/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" width="50" alt="LFS162: Introduction to DevOps and Site Reliability Engineering"/></a>
 <a href="https://www.credly.com/badges/fad3249a-05ed-4b72-a67d-82715a48eb49"><img src="https://images.credly.com/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" width="50" alt="LFS169: Introduction to GitOps"/></a>
