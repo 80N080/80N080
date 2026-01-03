@@ -8,7 +8,7 @@ stuff that I am into involves Linux & Networking
 <a href="https://www.credly.com/badges/355fff1a-76ff-4614-8e77-a88a4d1ff3d4"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="50" alt="CKA: Certified Kubernetes Administrator"/></a>
 <a href="https://www.credly.com/badges/a0ab8721-5091-4c3b-b03b-ebfd7c7802b6"><img src="https://images.credly.com/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" width="50" alt="CGOA: Certified GitOps Associate"/></a>
 <a href="https://www.credly.com/badges/4b009a71-3969-48ac-b0ac-0a1ed588f68a"><img src="https://images.credly.com/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" width="50" alt="LFCS: Linux Foundation Certified Systems Administrator"/></a>
-<a href="https://www.credly.com/badges/8ae3f72e-897b-45f8-8c16-a4deaf87d92f"><img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="50" alt="KCNA: Kubernetes and Cloud Native Associate"/></a>
+
 
 <a href="https://www.credly.com/badges/0b72b505-fe78-4446-9241-78d9efb7b9e8"><img src="https://images.credly.com/images/e05777b4-2eba-4421-9741-90547ac41d58/blob" width="50" alt="LFEL1009: Getting Started with OpenTofu"/></a>
 <a href="https://www.credly.com/badges/ac205c80-c880-4703-a11a-644755ed6a01"><img src="https://images.credly.com/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" width="50" alt="LFS162: Introduction to DevOps and Site Reliability Engineering"/></a>
