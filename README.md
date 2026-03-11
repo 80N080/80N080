@@ -1,4 +1,4 @@
-### System Administrator & Lifelong learner
+System Administrator & Lifelong learner
 
 <!-- badges-start -->
 <a href="https://www.credly.com/badges/a0ab8721-5091-4c3b-b03b-ebfd7c7802b6"><img src="https://images.credly.com/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" width="50" alt="CGOA: Certified GitOps Associate"/></a>
