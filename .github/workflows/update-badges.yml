@@ -3,7 +3,8 @@ on:
   schedule:
     - cron: '0 6 * * 1' # ogni lunedì
   workflow_dispatch:
-
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 jobs:
   update:
     runs-on: ubuntu-latest
