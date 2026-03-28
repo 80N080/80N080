@@ -2,7 +2,7 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
-USERNAME = "eduard-platon.6f312b2b"
+USERNAME = "eduard-platon.ep"
 README_PATH = "README.md"
 IMG_WIDTH = 50
 
